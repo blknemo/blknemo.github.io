@@ -2,23 +2,23 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://mazhuang.org
+url: https://blknemo.github.io/
 date_format: "ordinal"
-title: 码志
-subtitle: "打码改变人生"
-description: "马壮的个人博客"
-keywords: 码志, Zhuang Ma, mzlogin, mazhuang
-timezone: Asia/Shanghai
+title: Nemo
+subtitle: "因为不爱，所以都错"
+description: "Nemo的个人博客"
+keywords: nemo, nemo, nemo, nemo
+timezone: Asia/HuBei
 encoding: "utf-8"
 side_bar_repo_limit: 5
 
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Zhuang Ma
-organization: zkh360.com
-organization_url: http://www.zkh360.com
-github_username: mzlogin
+author: Nemo
+organization: nemo.com
+organization_url: http://www.nemo.com
+github_username: nemo
 location: Wuhan, China
 email: chumpma@gmail.com
 
